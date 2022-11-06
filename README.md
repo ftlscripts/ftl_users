@@ -5,20 +5,20 @@
 **Config:**
 
 `Config.NearPlayerTime = 500`
-- time in miliseconds to check if players is in visible area, less = more lags
+- čas v milisekundách na kontrolu, či sú hráči vo viditeľnom priestore, menej = menej lagov
 
 `Config.Command = 'users'`
-- command that turn on/off this feature
+- príkaz, ktorý zapne / vypne túto funkciu
 
 `Config.AllowedGroups = {
     'mod',
     'admin',
     'superadmin'
 }`
-- Allowed es_extended groups which can use this command
+- Povolené es_extended groupy, ktoré môžu používať tento príkaz
 
 `Config.TextSize = 1.2`
-- size of 3D text
+- veľkosť 3D textu
 
 `Config.DrawDistance = 100`
-- distance which will you see player name/id
+- vzdialenosť, ktorú uvidíte meno/id hráča
